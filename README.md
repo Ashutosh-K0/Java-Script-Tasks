@@ -4,7 +4,7 @@
 This repository contains a few JavaScript tasks designed to help improve your JavaScript skills.
 
 ## Repository Link
-[JavaScript Tasks Repository](https://github.com/your-username/javascript-tasks)
+[JavaScript Tasks Repository](https://github.com/Ashutosh-K0/Java-Script-Tasks)
 
 ## Deployment Link
 [JavaScript Tasks Deployment](https://your-deployment-link.com)
